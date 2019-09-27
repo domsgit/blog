@@ -24,6 +24,8 @@
 - [前端工程化之UI组件-storybook](https://github.com/domsgit/blog/issues/28)
 - [npm包中的sass、less](https://github.com/domsgit/blog/issues/31)
 - [记录有趣的库](https://github.com/domsgit/blog/issues/23)
+- [js中的数据合并的问题](https://github.com/domsgit/blog/issues/36)
+- [js排序算法](https://github.com/domsgit/blog/issues/38)
 
 ## 后端
 - [c语言Makefile](https://github.com/domsgit/blog/issues/3)
@@ -38,6 +40,10 @@
 ## 数据结构
 - [数据结构-图结构](https://github.com/domsgit/blog/issues/33)
 
+## 算法
+- [js排序算法](https://github.com/domsgit/blog/issues/38)
+
+
 ## 工作流、工具
 - [gitpages-hexo](https://github.com/domsgit/blog/issues/19)
 - [git私有仓库-gogs](https://github.com/domsgit/blog/issues/12)
@@ -45,6 +51,16 @@
 - [思维导图软件](https://github.com/domsgit/blog/issues/24)
 - [代码质量检查工具sonarQube](https://github.com/domsgit/blog/issues/27)
 - [流程图规范flowchart与流程图制作软件](https://github.com/domsgit/blog/issues/34)
+- [私有文档showdoc](https://github.com/domsgit/blog/issues/37)
+- [jenkins ci](https://github.com/domsgit/blog/issues/39)
+- [ssh相关](https://github.com/domsgit/blog/issues/40)
+- [web在线编辑器](https://github.com/domsgit/blog/issues/41)
+
+## Unix
+- [awk](https://github.com/domsgit/blog/issues/42)
+- [sed](https://github.com/domsgit/blog/issues/43)
+
+
 
 ## 其他
 - [黑客与画家](https://github.com/domsgit/blog/issues/20)
