@@ -25,7 +25,9 @@
 - [npm包中的sass、less](https://github.com/domsgit/blog/issues/31)
 - [记录有趣的库](https://github.com/domsgit/blog/issues/23)
 - [js中的数据合并的问题](https://github.com/domsgit/blog/issues/36)
-- [js排序算法](https://github.com/domsgit/blog/issues/38)
+- [前端清单](https://github.com/domsgit/blog/issues/52)
+- [vue 源码解析 - shared/util.js](https://github.com/domsgit/blog/issues/54)
+- [javascript静态类型检查](https://github.com/domsgit/blog/issues/55)
 
 ## 后端
 - [c语言Makefile](https://github.com/domsgit/blog/issues/3)
@@ -55,12 +57,15 @@
 - [jenkins ci](https://github.com/domsgit/blog/issues/39)
 - [ssh相关](https://github.com/domsgit/blog/issues/40)
 - [web在线编辑器](https://github.com/domsgit/blog/issues/41)
+- [启动本地服务](https://github.com/domsgit/blog/issues/53)
 
-## Unix
+## Linux
 - [awk](https://github.com/domsgit/blog/issues/42)
 - [sed](https://github.com/domsgit/blog/issues/43)
+- [UID和GID](https://github.com/domsgit/blog/issues/44)
 
 
 
 ## 其他
 - [黑客与画家](https://github.com/domsgit/blog/issues/20)
+- [函数式编程](https://github.com/domsgit/blog/issues/51)
