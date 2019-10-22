@@ -10,9 +10,7 @@
 - [threejs之创建文字](https://github.com/domsgit/blog/issues/8)
 - [threejs之正交投影照相机](https://github.com/domsgit/blog/issues/11)
 - [threejs之几何形状](https://github.com/domsgit/blog/issues/14)
-- [canvas之乱线抽象画](https://github.com/domsgit/blog/issues/15)
-- [canvas之平行线抽象画](https://github.com/domsgit/blog/issues/16)
-- [canvas之流星雨动画 canvas](https://github.com/domsgit/blog/issues/17)
+- [canvas相关演示demo](https://domsgit.github.io/CVS/examples/index.html)
 - [记一次ionic版本升级环境出错解决](https://github.com/domsgit/blog/issues/1)
 - [npx的一些骚用法](https://github.com/domsgit/blog/issues/4)
 - [js中 DataURL 转 BinaryString](https://github.com/domsgit/blog/issues/5)
@@ -28,6 +26,9 @@
 - [前端清单](https://github.com/domsgit/blog/issues/52)
 - [vue 源码解析 - shared/util.js](https://github.com/domsgit/blog/issues/54)
 - [javascript静态类型检查](https://github.com/domsgit/blog/issues/55)
+- [javascript书籍](https://github.com/domsgit/blog/issues/56)
+- [虚拟DOM - snabbdom](https://github.com/domsgit/blog/issues/57)
+- [underscore/lodash](https://github.com/domsgit/blog/issues/58)
 
 ## 后端
 - [c语言Makefile](https://github.com/domsgit/blog/issues/3)
