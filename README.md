@@ -29,10 +29,21 @@
 - [javascript书籍](https://github.com/domsgit/blog/issues/56)
 - [虚拟DOM - snabbdom](https://github.com/domsgit/blog/issues/57)
 - [underscore/lodash](https://github.com/domsgit/blog/issues/58)
+- [react hooks](https://github.com/domsgit/blog/issues/59)
+- [react read lists](https://github.com/domsgit/blog/issues/60)
+- [最简函数](https://github.com/domsgit/blog/issues/61)
+- [论简单问题复杂化](https://github.com/domsgit/blog/issues/62)
+- [前端mockjs与webpack的整合](https://github.com/domsgit/blog/issues/64)
+- [前端工程化需要哪些东西？](https://github.com/domsgit/blog/issues/65)
+- [js中的正则](https://github.com/domsgit/blog/issues/66)
+- [async-validator表单验证封装](https://github.com/domsgit/blog/issues/67)
 
 ## 后端
 - [c语言Makefile](https://github.com/domsgit/blog/issues/3)
 - [ruby的gem源](https://github.com/domsgit/blog/issues/18)
+
+## 机器学习
+- [机器学习资源整理](https://github.com/domsgit/blog/issues/63)
 
 ## 运维
 - [记一次mac下minikube的hello world出现的问题](https://github.com/domsgit/blog/issues/2)
